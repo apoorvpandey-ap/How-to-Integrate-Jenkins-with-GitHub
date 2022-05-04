@@ -1,0 +1,2 @@
+docker pull apoorvvns/apoorv_wildfly_02
+docker run -d -p 8081:8080 --name=202204291138 apoorvvns/apoorv_wildfly_02
