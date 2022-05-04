@@ -4,7 +4,7 @@ environment {
 
     registry = "apoorvvns/jenkins-test" 
 
-    registryCredential = 'b3902a13-117c-4a8e-b76c-51c60f33cce7' 
+    registryCredential = '92450add-9fc3-483e-bf8b-68c396379a18' 
 
    dockerImage = '' 
 
